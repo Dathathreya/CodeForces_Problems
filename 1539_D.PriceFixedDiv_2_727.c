@@ -272,3 +272,5 @@ int main()
 //     printf("%d\n", upper == n + 1 ? -1 : xx[upper - 1]);
 //     return 0;
 // }
+// https://codeforces.com/problemset/problem/1567/C
+// https://codeforces.com/contest/1567
